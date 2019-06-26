@@ -1,1 +1,3 @@
-alert('something');
+$(document).ready(function() {
+	alert('something');
+});
